@@ -1,0 +1,18 @@
+# Data files
+data/raw/*.csv
+data/processed/*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Power BI temp
+*.pbix.bak
+
+# Excel temp
+~$*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
