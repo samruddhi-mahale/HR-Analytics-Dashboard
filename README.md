@@ -61,8 +61,7 @@ This project analyzes HR data to identify employee attrition, workforce diversit
 - `powerbi/` — dashboard file (.pbix)
 - `exports/` — screenshots, PDF, and EDA charts
 
-## Screenshots
-(add after Phase )
+
 
 ## Conclusion
 This project demonstrates end-to-end data analytics using SQL, Python, Excel, and Power BI to generate meaningful HR insights and support business decision-making.
