@@ -189,8 +189,8 @@ Generated using pandas, matplotlib, and seaborn:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/samruddhi-mahale/HR-Analytics.git
-cd HR-Analytics
+git clone https://github.com/samruddhi-mahale/HR-Analytics-Dashboard.git
+cd HR-Analytics-Dashboard
 ```
 
 2. Generate the dataset:
